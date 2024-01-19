@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sugianand
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning about SQL
+- 🌱 I’m currently learning about SQL and C++
 - 💞️ I’m looking to collaborate on internships and projects in Computer Science 
 - 📫 How to reach me: Email- sugianand89@gmail.com Phone- 248-525-8543
 
