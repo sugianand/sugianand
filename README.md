@@ -14,9 +14,10 @@ I build AI products that real people can use: clean on the outside, real ML on t
 
 | Project | What it is | Status |
 |---|---|---|
-| 🌍 **Whereabout** | A human-vs-AI photo geolocation game. You guess where a photo was taken, and so does a model I train and evaluate myself. | 🔨 In active development (daily commits) |
+| 🌍 **[Whereabout](https://github.com/sugianand/whereabout)** | Can you beat the AI at guessing where a photo was taken? Drop a pin on a 3D globe against **Atlas**, a computer-vision model. Same Daily Five photos for everyone. | 🔨 In active development (daily commits) |
 | 🎬 **[Movies in Three Clues](https://movie-in-three-clues.sugianand89.chatgpt.site)** | A multiplayer movie-guessing game with room codes, synchronized clues, and solo and team modes. | ✅ [Live demo](https://movie-in-three-clues.sugianand89.chatgpt.site) |
-| 🧬 **CineDNA** | An AI-powered movie discovery project. | 🔨 In development |
+| 📅 **[11Planner](https://github.com/sugianand/11planner)** | Stop scrambling at 11:59. A weekly planner built with Next.js, FastAPI and Supabase. | ✅ Built |
+| 🧬 **[CineDNA](https://github.com/sugianand/CineDNA)** | Discover movies by how they feel, not just genre. React + FastAPI recommender built on Movie DNA profiles. | 🔨 In development |
 
 ### 🛠️ Tech toolkit
 
