@@ -1,38 +1,33 @@
-# Hi, I’m Sugi 👋
+## Hi, I'm Sugi
 
-**AI engineer in the making · MS in Artificial Intelligence @ Wayne State University · B.S. Computer Science (Math minor)**
+I'm a software engineer pursuing an M.S. in Artificial Intelligence at Wayne State University. I build products that are simple to use and backed by real engineering, from backend APIs to machine learning models.
 
-I build AI products that real people can use: clean on the outside, real ML on the inside. I ship something every day, and my background is in backend engineering (Django, Java, React) and software testing.
+### Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sugianand.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://sugianand.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suganeshwara-anand-b86367219/)
-[![Email](https://img.shields.io/badge/Email-sugianand89%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sugianand89@gmail.com)
+**[Whereabout](https://github.com/sugianand/whereabout)**: A geography game where you compete against a computer-vision model to guess where a photo was taken. [Play it](https://sugianand.github.io/whereabout/)
 
----
+**[Movie in Three Clues](https://github.com/sugianand/movie-in-three-clues)**: A multiplayer movie-guessing party game with room codes, teams and timed clues. [Play it](https://movie-in-three-clues.sugianand89.chatgpt.site)
 
-### 🚀 What I’m building
+**[CineDNA](https://github.com/sugianand/CineDNA)**: A movie recommender that matches films by how they feel, built with React and FastAPI.
 
-| Project | What it is | Status |
-|---|---|---|
-| 🌍 **[Whereabout](https://github.com/sugianand/whereabout)** | Can you beat the AI at guessing where a photo was taken? Drop a pin on a 3D globe against **Atlas**, a computer-vision model. Same Daily Five photos for everyone. | 🔨 In active development (daily commits) |
-| 🎬 **[Movies in Three Clues](https://movie-in-three-clues.sugianand89.chatgpt.site)** | A multiplayer movie-guessing game with room codes, synchronized clues, and solo and team modes. | ✅ [Live demo](https://movie-in-three-clues.sugianand89.chatgpt.site) |
-| 📅 **[11Planner](https://github.com/sugianand/11planner)** | Stop scrambling at 11:59. A weekly planner built with Next.js, FastAPI and Supabase. | ✅ Built |
-| 🧬 **[CineDNA](https://github.com/sugianand/CineDNA)** | Discover movies by how they feel, not just genre. React + FastAPI recommender built on Movie DNA profiles. | 🔨 In development |
+**[11Planner](https://github.com/sugianand/11planner)**: A weekly planner app built with Next.js, FastAPI and Supabase.
 
-### 🛠️ Tech toolkit
+### Skills
 
-- **Languages:** Python · Java · C++ · C# · JavaScript · TypeScript · SQL
-- **AI & data:** PyTorch · TensorFlow · NumPy
-- **Web & backend:** React · Django · Django REST Framework · Node.js · Blazor
-- **Databases & tools:** MySQL · MongoDB · Firebase · Git
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,js,ts,c&perline=7" alt="Languages" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,nodejs,django,fastapi&perline=7" alt="Frameworks" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,git&perline=7" alt="Databases and tools" />
+</p>
 
-### 💼 Experience
+### Experience
 
-- **Backend Software Developer Intern** at NeverEnding: built Django REST APIs and React interfaces
-- **QA Test Engineer Intern** at Accurate Technologies: tested embedded automotive software
-- **Student Assistant** at Wayne State C&IT: built a C# / Blazor self-service portal
-- **Technology Coach** at Rocket Companies, and **Tutor** at Mathnasium
+Backend Software Developer Intern at NeverEnding · QA Test Engineer Intern at Accurate Technologies · Student Assistant at Wayne State C&IT
 
-### 📫 Let’s connect
+### Contact
 
-I’m open to **AI/ML and software engineering internships, co-ops, and full-time roles**, and always happy to talk about interesting projects. Reach me at **[sugianand89@gmail.com](mailto:sugianand89@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/suganeshwara-anand-b86367219/)**.
+[Portfolio](https://sugianand.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/suganeshwara-anand-b86367219/) · [Email](mailto:sugianand89@gmail.com)
