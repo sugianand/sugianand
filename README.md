@@ -1,6 +1,8 @@
 ## Hi, I'm Sugi
 
-I'm a software engineer pursuing an M.S. in Artificial Intelligence at Wayne State University. I build products that are simple to use and backed by real engineering, from backend APIs to machine learning models.
+I build things people actually enjoy using, with real AI under the hood.
+
+Right now that's **Whereabout**, a game where you try to out-guess a computer-vision model on where a photo was taken. I'm a software engineer and an M.S. in AI student at Wayne State, and I ship something every day.
 
 ### Projects
 
