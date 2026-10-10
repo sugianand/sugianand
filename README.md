@@ -8,9 +8,9 @@ I'm a software engineer pursuing an M.S. in Artificial Intelligence at Wayne Sta
 
 **[Movie in Three Clues](https://github.com/sugianand/movie-in-three-clues)**: A multiplayer movie-guessing party game with room codes, teams and timed clues. [Play it](https://movie-in-three-clues.sugianand89.chatgpt.site)
 
-**[CineDNA](https://github.com/sugianand/CineDNA)**: A movie recommender that matches films by how they feel, built with React and FastAPI.
+**[CineDNA](https://github.com/sugianand/CineDNA)**: A movie recommender that matches films by how they feel, built with React and FastAPI. [Try it](https://sugianand.github.io/portfolio/#project/cinedna)
 
-**[11Planner](https://github.com/sugianand/11planner)**: A weekly planner app built with Next.js, FastAPI and Supabase.
+**[11Planner](https://github.com/sugianand/11planner)**: A weekly planner app built with Next.js, FastAPI and Supabase. [Try it](https://my11planner.vercel.app)
 
 ### Skills
 
